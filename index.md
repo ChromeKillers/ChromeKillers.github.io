@@ -7,7 +7,6 @@ description: Home Of The Viral Virus
 
 <head>
     <meta charset="utf-8">
-    <title>Hacker Typer</title>
     <link href="style.css" rel="stylesheet" type="text/css"/>
     <script
             src="https://code.jquery.com/jquery-3.3.1.min.js"
