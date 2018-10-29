@@ -2,9 +2,6 @@
 title: Home
 description: Home Of The Viral Virus
 ---
-<!DOCTYPE HTML>
-<html lang="en">
-
 <head>
     <meta charset="utf-8">
     <link href="style.css" rel="stylesheet" type="text/css"/>
