@@ -20,4 +20,3 @@ description: Home Of The Viral Virus
     Typer.file = 'kernel.txt';
     Typer.init();
 </script>
-</html>
